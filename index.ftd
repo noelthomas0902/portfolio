@@ -1,4 +1,5 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-1
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: noelthomas0902.github.io/portfolio/lib
 
@@ -23,6 +24,12 @@ cover: $assets.files.assets.ape-1.jpg
 
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+
+-- contact-1.contact-1: Feedback
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+Post-ironic portland shabby chic echo park, banjo fashion axe
+
 
 
 -- end: lib.page
